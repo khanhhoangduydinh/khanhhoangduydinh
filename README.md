@@ -40,6 +40,7 @@ khanh:
   role:       Graduate Researcher @ HCMUT · VNU-HCM
   advisors:   [Tran Van Hoai, Nguyen Thanh Nha, Tran Trung Nghia]
   core_areas: [Scientific ML (PINNs), Homomorphic Encryption in BCI, Numerical PDEs]
+  languages:  [Python (Primary), MATLAB (Primary), C/C++, LaTeX, Bash]
   education:
     - M.Eng. Computer Science · HCMUT (2025 – Present)
     - B.Sc. Engineering Physics (High-Distinction Honor) · HCMUT (2021 – 2025)
@@ -89,19 +90,19 @@ Algorithmic pipelines, statistical inference modeling, and high-dimensional bios
 
 <div align="center">
 
-<p><b>Machine Learning, SciML & Numerical Computing</b></p>
+<p><b>Core Languages (Primary: Python & MATLAB)</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,matlab,latex&theme=dark" alt="SciML and Math" />
+  <img src="https://skillicons.dev/icons?i=py,matlab,cpp,c,bash&theme=dark" alt="Core Languages: Python & MATLAB" />
 </p>
 
-<p><b>Core Languages & Scientific Libraries</b></p>
+<p><b>Scientific Machine Learning, PINNs & Numerical Computing</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,r,bash&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,latex&theme=dark" alt="SciML and Math Frameworks" />
 </p>
 
 <p><b>Data Engineering, Tools & Environment</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,postman&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker,postman&theme=dark" alt="Tools & Environment" />
 </p>
 
 </div>
